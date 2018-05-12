@@ -22,6 +22,8 @@ creator:
     gutenberg_agent_id: '35148'
     url: http://www.gutenberg.org/2009/agents/35148
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31318#Geronimo-s-Story-of-His-Life
 gutenberg_bookshelf: Native America
 gutenberg_issued: '2010-02-18'
 gutenberg_type: Text
