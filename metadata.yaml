@@ -1,0 +1,43 @@
+_repo: Geronimo-s-Story-of-His-Life_31318
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Geronimo
+    aliases:
+    - Goyahkla
+    - Goyathlay
+    - Goyakla
+    birthdate: 1829
+    deathdate: 1909
+    gutenberg_agent_id: '35147'
+    url: http://www.gutenberg.org/2009/agents/35147
+  editor:
+    agent_name: Barrett, S. M. (Stephen Melvil)
+    alias: Barrett, Stephen Melvil
+    birthdate: 1865
+    deathdate: 1948
+    gutenberg_agent_id: '35148'
+    url: http://www.gutenberg.org/2009/agents/35148
+description: ''
+gutenberg_bookshelf: Native America
+gutenberg_issued: '2010-02-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31318'
+  lccn: '06035725'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Apache Indians -- Wars'
+- !lcsh 'Apache Indians -- Biography'
+- !lcsh 'Apache Indians -- Kings and rulers -- Biography'
+- !lcsh 'Geronimo, 1829-1909'
+- !lcc 'E011'
+- !lcsh 'Apache Indians -- History'
+title: Geronimo's Story of His Life
+url: http://www.gutenberg.org/ebooks/31318
